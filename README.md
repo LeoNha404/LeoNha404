@@ -1,50 +1,37 @@
-# 👋 Hi, I'm LeoNha
+# Hi, I'm Kanha 👋
 
-### 🔐 Cybersecurity | 🤖 AI | ⛓️ Web3 Developer
+### 🔐 Cybersecurity → 🤖 AI → ⛓️ Web3 Developer
 
-I'm a Computer Science student with a background in **Cybersecurity**, currently expanding my skills into **Artificial Intelligence and Web3 development**.
+I'm a Computer Science student building my skills across cybersecurity, artificial intelligence, and Web3.
 
-I enjoy learning by building real projects, experimenting with new technologies, and understanding how systems work from both a **security and development perspective**.
+My journey started with **Cybersecurity**, where I developed an interest in networking, Linux, security monitoring, and vulnerability assessment.
 
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science Student
-- 🔐 Background in Cybersecurity & Networking
-- 🤖 Currently exploring AI & intelligent applications
-- ⛓️ Currently learning Web3 & Blockchain Development
-- ☀️ Learning **Solana Development**
-- 🦀 Learning **Rust & Anchor**
-- 💻 Interested in building secure and scalable applications
-- 🐧 Comfortable working with Linux
-- 🌱 Always learning and improving
+Now I'm expanding into **AI and Web3 development**, focusing on building secure, intelligent, and decentralized applications.
 
 ---
 
-## 🧭 My Journey
+## 🚀 What I'm Learning
+
+- 🔐 Cybersecurity & Network Security
+- 🤖 Artificial Intelligence & Machine Learning
+- ⛓️ Blockchain & Web3 Development
+- ☀️ Solana Development
+- 🦀 Rust
+- ⚓ Anchor Framework
+- 🌐 JavaScript / TypeScript
+- 🟢 Node.js
+- 🐧 Linux
+- 🐙 Git & GitHub
+
+---
+
+## 🛠️ Current Focus
 
 ```text
-        🔐 Cybersecurity
-              │
-              ▼
-       🤖 Artificial Intelligence
-              │
-              ▼
-        ⛓️ Web3 Development
-              │
-              ▼
-   🔒 Secure + Intelligent + 
-      Decentralized Applications
-      
-⭐ Thanks for visiting my profile!
-
-Your current profile is empty, so don't try to make it look like you already have years of Web3 experience. This README gives you a **professional transition story**:
-
-**Cybersecurity foundation → AI → Web3/Solana development**
-
-As you complete your Solana projects, replace:
-
-> 🚧 Projects coming soon...
-
-with 3–5 real projects. That's what will make your GitHub profile much stronger for **Web3 internships, junior developer roles, and Web3 programs**.
+Cybersecurity
+     ↓
+Artificial Intelligence
+     ↓
+Web3 Development
+     ↓
+Secure & Intelligent Decentralized Applications
