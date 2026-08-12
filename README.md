@@ -1,4 +1,4 @@
-# Hi, I'm Kanha 👋
+# Hi, I'm LeoNha404 (kanha)👋
 
 ### 🔐 Cybersecurity → 🤖 AI → ⛓️ Web3 Developer
 
